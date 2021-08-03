@@ -1,0 +1,21 @@
+link download: https://git-scm.com/book/pt-pt/v2/Come%C3%A7ando-Instalar-o-Git
+
+Topicos vistos no curso
+
+* Introdução ao git e github
+- O git é um controlador de versionamento de software distribuido
+- Ele é um CLI - comand line Interface
+
+* Comandos Iniciais do CLI
+* Como o Git funciona
+- SHA1
+- Obejetos fundamentais
+- Sistemas distribuidos
+- Segurança
+
+* Primeiros comandos no Git
+* Working repository x Remote repository
+
+* Cilco de vida no Git
+* Introdução ao GitHub
+
